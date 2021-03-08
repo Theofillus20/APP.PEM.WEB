@@ -1,0 +1,4 @@
+<?PHP
+	ECHO "HELLO WORLD!<BR>";
+	ECHO "SAYA BELAJAR";
+?>
